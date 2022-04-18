@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = chunman906@hotmail.com
+	name = chun man poon
